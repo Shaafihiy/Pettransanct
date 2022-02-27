@@ -1,0 +1,67 @@
+export default [
+  
+    {
+      id: '0',
+      title: "The German Shepered Dog",
+      image:'https://www.pngkey.com/png/detail/386-3862947_german-shepard-german-shepherd-stock.png',
+      avgRating: 4.2,
+      ratings: 11026,
+      price: 250,
+      oldPrice: 400,
+    },
+    {
+      id: '1',
+      title: "The Dalmatian Dog",
+      image: 'https://images.unsplash.com/photo-1626435872669-8bcb32be46dc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1312&q=80',
+      avgRating: 4.2,
+      ratings: 2989,
+      price: 32.98,
+      oldPrice: 34.06,
+    },
+    {
+      id: '2',
+      title: "The Labrador",
+      image: 'https://pngimg.com/uploads/labrador_retriever/labrador_retriever_PNG91.png',
+      avgRating: 3.8,
+      ratings: 2989,
+      price: 4206.9,
+      oldPrice: 5000
+    },
+    {
+      id: '3',
+      title: "Beautiful Old Rottweiler Dog",
+      image: 'https://wallpaper-house.com/data/out/21/wallpaper2you_11883.jpg',
+      avgRating: 4.8,
+      ratings: 2989,
+      price: 99.98,
+      oldPrice: 120.06,
+    },
+    {
+      id: '4',
+      title: "The Siberian Husky Dog",
+      image: 'https://image.shutterstock.com/image-photo/siberian-husky-sitting-on-tree-260nw-558432511.jpg',
+      avgRating: 4.8,
+      ratings: 2989,
+      price: 99.98,
+      oldPrice: 120.06,
+    },
+    {
+      id: '5',
+      title: "The Boerboel Dog",
+      image: 'https://www.barxbuddy.com/wp-content/uploads/2021/08/boerboel.jpeg',
+      avgRating: 4.8,
+      ratings: 2989,
+      price: 99.98,
+      oldPrice: 120.06,
+    },
+    {
+      id: '6',
+      title: "The Mastiff BullDog",
+      image: 'https://media.istockphoto.com/photos/english-mastiff-dog-picture-id586209354?b=1&k=20&m=586209354&s=170667a&w=0&h=7mWOL44CBunOvVjnPwevmCBblfVTGFeGp6_EZJ9Y5Eo=',
+      avgRating: 4.8,
+      ratings: 2989,
+      price: 99.98,
+      oldPrice: 120.06,
+    },
+  
+];
